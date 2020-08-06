@@ -18,6 +18,7 @@ inputs:
     enum:
       - dk-Linux
       - dk-Windows
+      - dk-KaliLinux
     title: Select Image/OS
   size:
     type: string
